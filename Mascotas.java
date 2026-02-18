@@ -1,3 +1,11 @@
+ /**
+  * Descripción: Tenemos una clase llamada Gatitos donde definimos los metodos que vamos a llamar 
+  * a la clase principal Mascotas, donde el usuario tambien le dara valores a los atributos de nuestro 
+  * gato01(objeto) para mandar a imprimir todo lo anterior al final del programa junto con un gatito hecho 
+  * de signos de puntuación para verlo de forma visual.  
+  * Autores: Christian Ulises Soto Fuentes y Joshua Jacob Oseguera Salinas 
+  */
+ 
 import java.util.Scanner;
 public class Mascotas{
     public static void main(String[] args){
