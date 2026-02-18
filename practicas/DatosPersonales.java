@@ -1,3 +1,9 @@
+ /**
+  * Descripción: El programa te pide un par de datos personales para despues imrpimirlos dando 
+  * como una narración de una tercera persona  
+  * Autores: Christian Ulises Soto Fuentes y Joshua Jacob Oseguera Salinas 
+  */
+
 import java.util.Scanner;
 public class DatosPersonales {
     public static void main (String[] args) {
