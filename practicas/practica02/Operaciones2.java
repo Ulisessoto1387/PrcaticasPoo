@@ -1,3 +1,9 @@
+/**
+ * Descripción: El programa te pide que ingreses dos números y a continuación te pregunta que operación quieres realizar
+ * si das una operación válida el pregrama la hace y si no, termina.
+ * Autores: Christian Ulises Soto Fuentes y Joshua Jacob Oseguera Salinas 
+ */
+
 import java.util.Scanner;
 public class Operaciones2 {
     public static void main(String[] args) {

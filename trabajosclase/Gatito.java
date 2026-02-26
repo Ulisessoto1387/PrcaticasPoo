@@ -1,4 +1,4 @@
-public class Gatitos {
+public class Gatito {
     
     //Atributos 
     String colorOjos;

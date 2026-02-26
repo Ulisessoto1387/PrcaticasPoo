@@ -1,3 +1,9 @@
+/**
+ * Descripción: El programa te pide que ingreses dos números y a continuación que opción de las operaciones
+ * posiblres quieres realizar para que lo haga. 
+ * Autores: Christian Ulises Soto Fuentes y Joshua Jacob Oseguera Salinas 
+ */
+
 import java.util.Scanner; 
 public class Operaciones1 {
     public static void  main(String[] args) {

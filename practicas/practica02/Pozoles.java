@@ -1,3 +1,9 @@
+/**
+ * Descripción: El programa te muestra un menú donde puedes elegir comer hasta 4 tipos de pozole distintos, al acabar te 
+ * vuelven a ofrecer siempre y cuando no lleves consumido más de $350, al final te muestra la cuenta total.
+ * Autores: Christian Ulises Soto Fuentes y Joshua Jacob Oseguera Salinas 
+ */
+
 import java.util.Scanner;
 public class Pozoles {
     public static void main (String[] args) {

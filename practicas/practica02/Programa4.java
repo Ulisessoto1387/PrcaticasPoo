@@ -1,3 +1,8 @@
+/**
+ * Descripción: El programa te pide un total de 5 calificaciones, y te imprime el promedio de estas. 
+ * Autores: Christian Ulises Soto Fuentes y Joshua Jacob Oseguera Salinas 
+ */
+
 import java.util.Scanner; 
 public class Programa4 {
     public static void main (String[] args){
@@ -14,7 +19,6 @@ public class Programa4 {
 
             System.out.println("El promedio de las califiaciones es: "+promedio+" "); 
             
-
         entrada.close(); 
     }
 }

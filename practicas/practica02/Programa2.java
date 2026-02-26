@@ -1,3 +1,9 @@
+/**
+ * Descripción: El programa te pide que ingreses hasta 10 valores de tipo flotante, ya que los tiene hace una suma de 
+ * estoss mismos, luego selecciona solo los valores que son múltiplos de 3  y hace esta suma por separado.   
+ * Autores: Christian Ulises Soto Fuentes y Joshua Jacob Oseguera Salinas 
+ */
+
 import java.util.Scanner;
 public class Programa2 {
     public static void main (String[] args){
