@@ -16,7 +16,7 @@ public class Ejercicio1 {
         System.out.println("Esta bien, comenzamos a trabajar. ");
         System.out.println("La frase tiene "+frase.length()+" caracteres.");
         System.out.println("La frase original es: "+frase+" ");
-        System.out.println("La frase original sin espacios: "+frase.replace(" ","")+" ");
+        System.out.println("La frase original sin espacios: "+frase.replace(" ", "")+" ");
         System.out.println("La frase original en mayúsculas: "+frase.toUpperCase()+" ");
         System.out.println("La frase original en minusculas: "+frase.toLowerCase()+" ");
         System.out.println("La frase original reemplazando las a por @: "+frase.replace("a", "@")+" ");
@@ -26,7 +26,10 @@ public class Ejercicio1 {
         System.out.println("El número de posición en la frase en la que aparece la última letra e: "+frase.lastIndexOf("e")+" ");
         System.out.println("La frase original al revés: ");
 
-        System.out.println("La subcadena que va desde el carácter con posición 3 hasta la posición 8: "+frase.charAt(+")
+        System.out.println("La subcadena que va desde el carácter con posición 3 hasta la posición 8: "+frase.getChars(3,9,frase,0)+" ");
+        System.out.println("La subcadena que va desde el carácter 5 hasta el final de la frase: "+frase.getChars(5,frase.length(),frase,0)+" ");
+        System.out.println("El carácter que se encuentra en la posición 3: "+frase.charAt(3)+" ");
+
         
         
        
