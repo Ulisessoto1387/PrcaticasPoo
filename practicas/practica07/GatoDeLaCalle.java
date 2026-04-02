@@ -25,4 +25,9 @@ public class GatoDeLaCalle extends Gato {
         return numeroDePeleas;
     }
 
+    @override
+    public String toString(){
+        return super.toString() + " y ha peleado "+numeroDePeleas+" veces";
+    }
+
 }

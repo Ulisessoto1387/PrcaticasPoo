@@ -24,4 +24,9 @@ public class GatoDeCasa extends Gato {
         return nombre;
     }
 
+    @override 
+    public String toString(){
+        return super.toString() + " y se llama "+nombre;
+    }
+
 }
