@@ -4,7 +4,7 @@ public class Tortuga extends Animal {
 
     public Tortuga(){
         super();
-        estado = "durmiendo";
+        estado = "descansando";
     }
     public Tortuga(int id, int posicion, String nombre, String estado){
         super(id, posicion, nombre);
